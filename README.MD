@@ -1,7 +1,7 @@
 
 <h1> MEDICENTER CLINICA MÉDICA</h1>
 
-<h3>Tecnologia Utilizadas</h3>
+<h3>Tecnologias Utilizadas</h3>
 
   - HTML
   - CSS
